@@ -3,25 +3,24 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: European Univeristy Institute, Dept. of Economics
+    year: 1997-2001
+  - course: MA in Economics (Diplom Volkswirt)
+    institution: University of Bonn
+    year: 1993-1997
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Macroeconomics
+- Financial Economics
+- Consumption
+- Labor Economics
+- Decisions under Uncertainty
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of St.Gallen
+  url: https://www.unisg.ch/en
+role: Professor of Economics
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,19 +33,20 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.ch/citations?user=Q1U3eVYAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Jenny Sloane
+title: Winfried Koeniger
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Reader (associate professor), Queen Mary, University of London (2009-2013)
+Senior Lecturer, Lecturer, Queen Mary, University of London (2007-2009)
+Senior Research Associate, Research Associate, IZA (2001-2007)
+Research Associate of "Finance and Consumption in the EU", European
+University Institute (2001-2006)
+ECB consultant (2002-2003)
+IZA Research Affiliate (2000-2001)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/wk_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
