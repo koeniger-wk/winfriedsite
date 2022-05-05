@@ -1,52 +1,66 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: We analyze how intergenerational mobility and inequality would change relative to the status quo if dynasties had access to optimal insurance against low ability of future generations. Based on a dynamic, dynastic Mirrleesian model, we find that insurance against intergenerational ability risk increases in the social optimum relative to the status quo. This implies less intergenerational mobility in terms of welfare but no quantitatively significant change in earnings mobility. Earnings mobility is thus similar across economies with different incentives and welfare, illustrating that changes in earnings mobility cannot be interpreted readily in welfare terms without further analysis.
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Carlo Zanella
+date: "2022-03-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.jpubeco.2022.104623"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Journal of Public Economics, 208*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2022-03-01T00:00:00Z"
+# slides: example
+# summary: Opportunity and inequality across generations
 tags:
 - Source Themes
-title: An example journal article
+title: Opportunity and inequality across generations
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0047272722000251
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+---
+
+abstract: We provide empirical evidence on the heterogeneous transmission of monetary policy to the housing market across and within countries. We use household-level data from Germany, Italy and Switzerland together with the respective monetary policy shocks identified from high-frequency data. We find that the pass-through of monetary policy shocks to rates of newly originated (fixed-rate) mortgages is twice as strong in Switzerland as in Germany and Italy. After an accommodative monetary policy shock, this is associated in the housing market with a larger immediate, and persistent increase of transitions from renting to owning; a stronger decrease in rents; and an increase of the price–rent ratio. Within Italy, we find a stronger pass-through to mortgage rates, housing tenure transitions and the price–rent ratio in the northern regions that have been characterized in the literature as more financially developed than the southern regions.
+authors:
+- admin
+- Benedikt Lennartz
+- Marc-Antoine Ramelet
+date: "2022-04-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.euroecorev.2022.104107"
+featured: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+projects: []
+publication: '*European Economic Review, 145*'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "2022-04-01T00:00:00Z"
+# slides: example
+# summary: Opportunity and inequality across generations
+tags:
+- Source Themes
+title: On the transmission of monetary policy to the housing market
+url_code: ""
+url_dataset: ""
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0014292122000496
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

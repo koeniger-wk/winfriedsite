@@ -24,18 +24,45 @@ date_format: Jan 2006
 experience:
   - title: Professor of Economics
     company: University of St.Gallen
-    date_start: '2011-01-01'
+    date_start: '2013-08-01'
     date_end: ''
         
   - title: Director
     company: Swiss Institute for Empirical Economics Research (SEW-HSG)
     company_url: 'https://sew.unisg.ch/en'
     location: ''
-    date_start: '2016-01-01'
+    date_start: '2013-08-01'
     date_end: ''
     description: ''
     
+  - title: Reader (Associate Professor)
+    company: Queen Mary, University of London
+    location: ''
+    date_start: '2009-12-01'
+    date_end: '2013-07-01'
+    description: ''    
 
+  - title: Senior Lecturer
+    company: Queen Mary, University of London
+    location: ''
+    date_start: '2008-04-01'
+    date_end: '2009-12-01'
+    description: ''    
+    
+  - title: Lecturer
+    company: Queen Mary, University of London
+    location: ''
+    date_start: '2007-09-01'
+    date_end: '2008-04-01'
+    description: ''   
+   
+  - title: Senior Research Associate
+    company: IZA (Institute for the Study of Labor)
+    location: ''
+    date_start: '2001-09-01'
+    date_end: '2007-08-01'
+    description: ''      
+    
 design:
   columns: '2'
 ---
