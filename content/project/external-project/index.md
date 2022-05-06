@@ -1,11 +1,10 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+date: "2022-05-06T00:00:00Z"
+external_link: https://monitoringconsumption.com/
 image:
-  caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: We are using aggregated and anonymized payment data to shed light on consumer spending in Switzerland and how this is impacted by the COVID-19 crisis `external_link`.
 tags:
-- Demo
-title: External Project
+- Consumption
+title: Monitoring Consumption Switzerland
 ---
