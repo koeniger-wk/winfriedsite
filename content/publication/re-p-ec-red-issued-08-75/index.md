@@ -52,4 +52,5 @@ doi: 10.1016/j.red.2010.10.003
 links:
 - name: URL
   url: https://ideas.repec.org/a/red/issued/08-75.html
+url_code: https://ideas.repec.org/c/red/ccodes/08-75.html
 ---

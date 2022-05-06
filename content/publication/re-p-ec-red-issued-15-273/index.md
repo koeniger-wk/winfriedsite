@@ -48,4 +48,6 @@ doi: 10.1016/j.red.2017.10.002
 links:
 - name: URL
   url: https://ideas.repec.org/a/red/issued/15-273.html
+url_code: https://ideas.repec.org/c/red/ccodes/15-273.html
+url_dataset: https://ideas.repec.org/c/red/ccodes/15-273.html
 ---

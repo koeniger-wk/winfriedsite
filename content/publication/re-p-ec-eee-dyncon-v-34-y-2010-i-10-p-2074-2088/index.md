@@ -47,4 +47,5 @@ doi: ''
 links:
 - name: URL
   url: https://ideas.repec.org/a/eee/dyncon/v34y2010i10p2074-2088.html
+url_code: https://ideas.repec.org/c/dge/qmrbcd/184.html
 ---

@@ -1,19 +1,6 @@
 ---
-bio:
-education:
-  courses:
-  - course: PhD in Economics
-    institution: European Univeristy Institute, Dept. of Economics
-    year: 1997-2001
-  - course: Exchange Student in the Ph.D. program
-    institution: New York University, Dept. of Economics
-    year: 1999
-  - course: MA in Economics (Diplom Volkswirt)
-    institution: University of Bonn
-    year: 1993-1997
-  - course: Exchange Student in the Ph.D. program
-    institution: UC Berkeley, Dept. of Economics
-    year: 1993-1997
+bio: Professor of Economics at the Univerisity of St.Gallen
+affiliation:
 email: ""
 highlight_name: false
 interests:
